@@ -1,0 +1,32 @@
+.counter_wrapper {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid black;
+    max-width: 200px;
+    margin-bottom: 20px;
+}
+
+.count-screen {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    margin: 0 auto;
+    max-width: 100px;
+}
+
+.buttons_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.parity_count {
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 49px;
+    width: 100px;
+    height: 25px;
+    
+}
